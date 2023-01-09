@@ -3,7 +3,7 @@ On April 14th of 2022, Elon Musk announced to the world via his social media tha
 
 Bots are defined as automated Twitter accounts that are programmed to behave like real Twitter users to achieve specific goals at a larger scale. Social media experts divide bots into two major categories: (a) “good” bots that provide useful content to users such as daily weather forecasts and stock prices, and (b) “bad” bots that spread misinformation, scams, span and devalue Twitter’s platform. 
 
-##### The goal of this project is to detect a Twitter bot regardless of their activity on the platform. 
+> The goal of this project is to detect a Twitter bot regardless of their activity on the platform. 
 
 ### Folder Structure
 | Name                | Description                                                                                |
